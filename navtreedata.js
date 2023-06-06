@@ -25,12 +25,7 @@
 var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
-    [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md98", null ],
-      [ "Features", "index.html#autotoc_md99", null ],
-      [ "Documentation", "index.html#autotoc_md100", null ],
-      [ "Contributions", "index.html#autotoc_md101", null ]
-    ] ],
+    [ "The Algorithms - C++", "index.html", "index" ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md5", null ],
       [ "Our Standards", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md6", null ],
@@ -139,19 +134,16 @@ var NAVTREEINDEX =
 "annotated.html",
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
-"d1/d83/classuint256__t.html#a9e1b39a46ea16bc6587e25e294c6c363",
-"d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html#a6e486767434e44076c1ac374a22da726",
-"d4/d38/power__of__two_8cpp.html",
-"d5/d58/class_test_cases.html#ad9f95c09931625b41e3be1f88d1e28c5",
-"d6/d42/miller__rabin_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9",
-"d7/d89/double__factorial_8cpp.html#a0a3c417360400093891a9ccddaa4be26",
-"d8/dab/classstatistics_1_1stats__computer2.html",
-"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html",
-"db/d3f/wave__sort_8cpp.html#a7d4f243b9dc13ace4ef77e30dbc56f12",
-"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a2871146feaaa453558239df67b21e0d2",
-"dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html#af22395b8e9e04222aa93a329523faef9",
-"df/d34/classprobability_1_1windowed__median_1_1_windowed_median.html#aacd76f078632faee1a8788d031e6c2de",
-"pages.html"
+"d1/d83/classuint256__t.html#afee82fa5052e9d8c946b9205b943cec4",
+"d3/d80/z__function_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d4/df4/classmachine__learning_1_1neural__network_1_1_neural_network.html#a62151b0398a2536be60d950e10ffe9a8",
+"d6/d30/classmachine__learning_1_1adaline.html#a8d61f9ed872eef26bca39388cbda6a91",
+"d7/def/trie__multiple__search_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"d8/df0/queue__using__array_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"da/d70/structmachine__learning_1_1aystar__search_1_1_ay_star_search_1_1_info.html",
+"db/d9a/classuint128__t.html#add9938b97fc66560cec2d32e8c83eaad",
+"dd/d47/namespacemath.html#a971ce57e368f2f631cf1f4ff3f864049",
+"df/d34/classprobability_1_1windowed__median_1_1_windowed_median.html#aafda847b152684578dab891e5268d750"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
